@@ -26,6 +26,8 @@ Hello! My name is _**Johnny-Sante Shulbe**_. I am an accounting professional exp
 I am developing my programming and data analysis skills to combine them with my accounting background and pursue opportunities in technology and business analytics.
 
 * Strengthen my Python programming skills.
+* Soft Skills in Web Development.
+* Web Development Fundamentals.
 * Learn more about web development with Flask.
 * Develop projects involving databases and data analysis.
 * Combine my accounting background with technology and business intelligence.
